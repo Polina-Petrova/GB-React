@@ -1,5 +1,3 @@
-// 'use strict';
-
 //#1
 
 function loop(times, callback) {
